@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fMYbgfnlD3s=",
+  "dgSpecHash": "DYrWI1Uw7dY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Повелитель\\source\\repos\\Проба_Фрингерпринтер\\Проба_Фрингерпринтер\\Проба_Фрингерпринтер.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Повелитель\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
     "C:\\Users\\Повелитель\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
     "C:\\Users\\Повелитель\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\Повелитель\\.nuget\\packages\\system.numerics.vectors\\4.6.1\\system.numerics.vectors.4.6.1.nupkg.sha512",
     "C:\\Users\\Повелитель\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\Повелитель\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
