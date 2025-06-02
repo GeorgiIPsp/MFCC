@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C\\source\\repos\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{358FF98B-2011-42E4-B17A-362973958058}|\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440.csproj|c:\\users\\\u043F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C\\source\\repos\\\u043F\u0440\u043E\u0431\u0430_\u0444\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\\u043F\u0440\u043E\u0431\u0430_\u0444\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358FF98B-2011-42E4-B17A-362973958058}|\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440.csproj|solutionrelative:\u043F\u0440\u043E\u0431\u0430_\u0444\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:693468258:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1381365490:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2034403439:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:97839003:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172771787:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C\\source\\repos\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C\\source\\repos\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\Program.cs",
+              "RelativeToolTip": "\u041F\u0440\u043E\u0431\u0430_\u0424\u0440\u0438\u043D\u0433\u0435\u0440\u043F\u0440\u0438\u043D\u0442\u0435\u0440\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:31:33.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Проба_Фрингерпринтер/1.0.0": {
+        "runtime": {
+          "Проба_Фрингерпринтер.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Проба_Фрингерпринтер/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

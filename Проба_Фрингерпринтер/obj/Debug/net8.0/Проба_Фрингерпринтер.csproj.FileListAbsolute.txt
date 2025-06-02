@@ -1,0 +1,14 @@
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\bin\Debug\net8.0\Проба_Фрингерпринтер.exe
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\bin\Debug\net8.0\Проба_Фрингерпринтер.deps.json
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\bin\Debug\net8.0\Проба_Фрингерпринтер.runtimeconfig.json
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\bin\Debug\net8.0\Проба_Фрингерпринтер.dll
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\bin\Debug\net8.0\Проба_Фрингерпринтер.pdb
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.AssemblyInfoInputs.cache
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.AssemblyInfo.cs
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.csproj.CoreCompileInputs.cache
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.dll
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\refint\Проба_Фрингерпринтер.dll
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.pdb
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.genruntimeconfig.cache
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\ref\Проба_Фрингерпринтер.dll
