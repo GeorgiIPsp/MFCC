@@ -16,6 +16,7 @@ internal class Program
     {
         Console.WriteLine("Добро пожаловать в Фригерпринтер основанный  на методе MFCC");
         string audiPath = "\\FilesAudio\\TestAudio.wav";
+        Console.WriteLine("Новое");
         
     }
     private float[] LoadAudio(string audioPath)
