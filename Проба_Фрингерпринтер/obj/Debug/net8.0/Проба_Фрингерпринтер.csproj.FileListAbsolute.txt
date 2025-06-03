@@ -27,3 +27,4 @@ C:\Users\Повелитель\source\repos\Проба_Фрингерпринте
 C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.csproj.AssemblyReference.cache
 C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\Проба_Фрингерпринтер.sourcelink.json
 C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\obj\Debug\net8.0\________.DD6D8292.Up2Date
+C:\Users\Повелитель\source\repos\Проба_Фрингерпринтер\Проба_Фрингерпринтер\bin\Debug\net8.0\NWaves.dll

@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[2.2.1, )"
             },
+            "NWaves": {
+              "target": "Package",
+              "version": "[0.9.6, )"
+            },
             "System.Numerics.Vectors": {
               "target": "Package",
               "version": "[4.6.1, )"
