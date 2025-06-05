@@ -8,6 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="FilesAudio\TestAudio.wav" />
+    <None Remove="FilesAudio\TestAudioEdit.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Accord" Version="3.8.0" />
     <PackageReference Include="Accord.Audio" Version="3.8.0" />
     <PackageReference Include="Accord.Math" Version="3.8.0" />
@@ -15,6 +20,11 @@
     <PackageReference Include="NAudio" Version="2.2.1" />
     <PackageReference Include="NWaves" Version="0.9.6" />
     <PackageReference Include="System.Numerics.Vectors" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="FilesAudio\TestAudio.wav" />
+    <Resource Include="FilesAudio\TestAudioEdit.wav" />
   </ItemGroup>
 
 </Project>

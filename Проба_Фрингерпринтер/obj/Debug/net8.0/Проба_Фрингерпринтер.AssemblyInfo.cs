@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Проба_Фрингерпринтер")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7330bb966fbffbcaedc7a97d27486964c9ae04b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ac5fb6850de10ae8e9cbe6734e57d6eddddf45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Проба_Фрингерпринтер")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Проба_Фрингерпринтер")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
